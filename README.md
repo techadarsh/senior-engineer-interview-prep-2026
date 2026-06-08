@@ -72,7 +72,7 @@ Use this section as the master checklist. Mark each item as complete after study
 ## 1. JavaScript Fundamentals and Runtime
 
 ### 1.1 JavaScript Basics
-- [ ] What is JavaScript?
+- [X] What is JavaScript?
 - [ ] JavaScript as a high-level language
 - [ ] JavaScript as a single-threaded language
 - [ ] JavaScript in browser vs JavaScript in Node.js
